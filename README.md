@@ -1,6 +1,6 @@
 # Práctica II - Sistemas Operativos
 
-Esta práctica es la continuación de la [primera práctica](https://github.com/faridardila/MotordeBusqueda_Tweets) realizada en la materia de Sistemas Operativos.
+Esta práctica es la continuación de la [primera práctica](https://github.com/cristoferOrdonez/HashVid19-Motor-De-Busqueda) realizada en la materia de Sistemas Operativos.
 
 | Nombre           | GitHub   | Contacto              |
 | ---------------- | -------- |-------------------------|
