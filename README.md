@@ -100,3 +100,43 @@ Para asegurar una búsqueda menor a dos segundos, el sistema implementa una **ta
 
 
 * **Búsqueda**: cuando se realiza una búsqueda, el proceso correspondiente accede directamente a las posiciones específicas dentro del archivo `.csv` utilizando los offsets almacenados en el archivo `index.bin`. Este enfoque permite acceder únicamente a los registros relevantes, evitando la carga completa del *dataset* en memoria y optimizando así el rendimiento del sistema.
+
+
+## Ejemplos de uso 
+Los ejemplos de uso se muestran a continuación:
+
+- Ejemplo 1: 
+    ```console
+    Fecha: 2020-03-09
+
+    Tiempo inicial: 12:45:00
+
+    Tiempo final: 12:45:59
+
+    Idioma: en
+    ```
+
+    Resultado: 175 registros encontrados
+
+    Video: [Ejemplo 1](https://drive.google.com/file/d/1DDIhrDXFBqs6v0KLO8VQ-Id-b7Hrncas/view?usp=sharing)
+
+- Ejemplo 2:
+
+    ```console
+    Fecha: 2022-01-23
+
+    Tiempo inicial: 00:00:00
+
+    Tiempo final: 00:00:59
+
+    Idioma: fr
+    ```
+
+    Resultado:  NA
+  
+
+
+    Video: [Ejemplo 2](https://drive.google.com/file/d/1n5OqLxmHuD2Lv1pA-ExqvljRLpEfOgbY/view?usp=sharing)
+
+
+
