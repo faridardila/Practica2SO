@@ -14,7 +14,7 @@
 #define TAMANO_TABLA 1000003
 #define ARCHIVO_DATASET "full_dataset_clean.csv"
 #define ARCHIVO_INDICES "index.bin"
-#define LIMITE_BUFFER_RESULTADOS 40000
+#define LIMITE_BUFFER_RESULTADOS 1000
 #define PORT 8080 // puerto para la conexión del socket
 
 // estructura para la información de los tweets
