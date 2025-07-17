@@ -133,8 +133,6 @@ Los ejemplos de uso se muestran a continuación:
     ```
 
     Resultado:  NA
-  
-
 
     Video: [Ejemplo 2](https://drive.google.com/file/d/1n5OqLxmHuD2Lv1pA-ExqvljRLpEfOgbY/view?usp=sharing)
 
